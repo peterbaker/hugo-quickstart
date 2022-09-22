@@ -1,4 +1,4 @@
-baseURL = 'http://hugo-quickstart-template.netlify.com'
+baseURL = 'http://lenaweesolar.netlify.com'
 languageCode = 'en-us'
-title = 'Netlify + Hugo Quickstart'
+title = 'Lenawee Solar'
 theme = 'netlify-basic'
