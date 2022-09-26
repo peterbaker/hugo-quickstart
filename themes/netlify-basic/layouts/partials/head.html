@@ -5,6 +5,11 @@
   {{ $title := print .Site.Title " | " .Title }} {{ if .IsHome }}{{ $title =
   .Site.Title }}{{ end }}
 
+  <link
+    href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;600;700;800;900&display=swap"
+    rel="stylesheet"
+  />
+
   <link rel="stylesheet" href="/css/style.css" />
 
   <title>{{ $title }}</title>
